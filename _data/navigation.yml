@@ -5,26 +5,33 @@
 # prevent it from being included in the site.
 #
 # NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+#      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+ # ===== 添加以下条目作为语言切换链接 =====
+  - title: "English" # 或者你想要显示的文字，比如 "英文"
+    url: "https://longweihan.github.io/" # 你的英文主页的完整 URL
+  # ====================================
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Friends"
-    url: /friends/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Friends"
+    url: /friends/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+
+ 
