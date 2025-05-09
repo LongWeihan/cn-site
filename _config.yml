@@ -25,17 +25,17 @@ repository               : "LongWeihan/cn-site" # 仓库格式应为 用
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png" # 确保这个图片在你的 assets/images 文件夹或其他正确位置
-  name             : "龙维汉"
-  pronouns         : # example: "she/her"  
-  bio              : "硅光器件设计"
-  location         : "中国成都"
-  employer         : "电子科技大学"
-  uri              : # URL
-  email            : "longwh2003@gmail.com" 
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "龙维汉"
+  pronouns         : # example: "she/her"  
+  bio              : "硅光器件设计"
+  location         : "中国成都"
+  employer         : "电子科技大学"
+  uri              : # URL
+  email            : "longwh2003@gmail.com" 
 
-  # Academic websites
+  # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
