@@ -2,9 +2,9 @@
 permalink: /
 title: "个人主页"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from: # 确保这一行顶格写，从第1列开始
+  - /about/   # 确保这里有正确的缩进 (例如2个空格)
+  - /about.html # 确保这里有正确的缩进 (与上一行对齐)
 ---
 
 
