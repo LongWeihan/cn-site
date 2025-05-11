@@ -156,5 +156,5 @@ Jing Y, Yang Y, **Long W**, Zhang T, Wu D, Wang J, Xiong Z, Chen N, Wang M, Chan
 
 ## 联系我
 
-- **邮箱**：[longwh2003@gmail.com](mailto:longwh2003@gmail.com)
+- **邮箱**：[weihanlong@std.uestc.edu.cn](mailto:weihanlong@std.uestc.edu.cn)
 - **GitHub**：[https://github.com/LongWeihan](https://github.com/LongWeihan)
